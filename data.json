@@ -1,0 +1,1392 @@
+[
+    {
+        "user_name": "techie_koramangala",
+        "post": 420,
+        "followers": 9800,
+        "following": 310,
+        "name": "Arjun M.",
+        "org": "Software Engineer",
+        "bio": [
+            "\ud83d\udcbb Full-stack @ SaaS startup",
+            "\u2615 Working from cafes in Koramangala",
+            "github.com/arjunmakes"
+        ]
+    },
+    {
+        "user_name": "blrcoder_girl",
+        "post": 150,
+        "followers": 6300,
+        "following": 120,
+        "name": "Riya Codes",
+        "org": "Tech Creator",
+        "bio": [
+            "\ud83d\udc69\u200d\ud83d\udcbb Python | ML | Roadmaps",
+            "\ud83c\udfa5 Coding Reels + Daily Motivation",
+            "linktr.ee/riyacodes"
+        ]
+    },
+    {
+        "user_name": "hsr_startup_stories",
+        "post": 980,
+        "followers": 22400,
+        "following": 95,
+        "name": "Startup Stories HSR",
+        "org": "Media",
+        "bio": [
+            "\ud83d\ude80 Interviews with Bangalore founders",
+            "\ud83c\udf99\ufe0f Weekly startup breakdowns",
+            "hsrstartupstories.com"
+        ]
+    },
+    {
+        "user_name": "cloud_dev_blr",
+        "post": 210,
+        "followers": 4500,
+        "following": 60,
+        "name": "Naveen DevOps",
+        "org": "Engineer",
+        "bio": [
+            "\u2601\ufe0f AWS | Docker | K8s",
+            "\ud83d\udccd Sarjapur",
+            "github.com/naveencloud"
+        ]
+    },
+    {
+        "user_name": "koramangala_coffee_lover",
+        "post": 300,
+        "followers": 7900,
+        "following": 180,
+        "name": "Sana B.",
+        "org": "Cafe Explorer",
+        "bio": [
+            "\u2615 Reviewing Bangalore\u2019s hidden coffee spots",
+            "\ud83d\udccd Koramangala",
+            "youtube.com/@sanacafehunter"
+        ]
+    },
+    {
+        "user_name": "ai_bangalore_news",
+        "post": 1340,
+        "followers": 38000,
+        "following": 200,
+        "name": "AI Bangalore",
+        "org": "Media",
+        "bio": [
+            "\ud83e\udd16 Daily AI news from India",
+            "\ud83d\udce2 Startup & research updates",
+            "aibanglore.ai/news"
+        ]
+    },
+    {
+        "user_name": "techfounder_india",
+        "post": 210,
+        "followers": 19000,
+        "following": 450,
+        "name": "Dev Patel",
+        "org": "Founder",
+        "bio": [
+            "\u26a1 Building SaaS in Fintech",
+            "\ud83d\udccd Indiranagar",
+            "devpatel.io"
+        ]
+    },
+    {
+        "user_name": "coder_on_orr",
+        "post": 65,
+        "followers": 1900,
+        "following": 70,
+        "name": "Sriram",
+        "org": "Backend Developer",
+        "bio": [
+            "\ud83d\udc0d Python | FastAPI enthusiast",
+            "\ud83c\udf27\ufe0f Surviving ORR traffic",
+            "github.com/sriramworks"
+        ]
+    },
+    {
+        "user_name": "blrdatascience_daily",
+        "post": 540,
+        "followers": 15100,
+        "following": 150,
+        "name": "Bangalore DS Daily",
+        "org": "Media",
+        "bio": [
+            "\ud83d\udcca Data + AI + ML",
+            "\ud83d\udc69\u200d\ud83c\udfeb Tutorials | Job alerts",
+            "blrdatascience.in"
+        ]
+    },
+    {
+        "user_name": "frontend_with_megha",
+        "post": 175,
+        "followers": 8200,
+        "following": 95,
+        "name": "Megha Gupta",
+        "org": "Frontend Dev",
+        "bio": [
+            "\ud83c\udfa8 React | Next.js | UI Tips",
+            "\ud83c\udf38 Bengaluru",
+            "meghacodes.dev"
+        ]
+    },
+    {
+        "user_name": "cubbonpark_runner",
+        "post": 95,
+        "followers": 1500,
+        "following": 40,
+        "name": "Aman",
+        "org": "Lifestyle",
+        "bio": [
+            "\ud83c\udfc3 Running after coding",
+            "\ud83d\udccd Cubbon Park",
+            "strava.com/amanrunning"
+        ]
+    },
+    {
+        "user_name": "indiranagar_food_maps",
+        "post": 600,
+        "followers": 12300,
+        "following": 155,
+        "name": "Food Maps BLR",
+        "org": "Food & Drink",
+        "bio": [
+            "\ud83c\udf5c Maps of best places around Indiranagar",
+            "\ud83d\udccd Bangalore",
+            "foodmapsblr.com"
+        ]
+    },
+    {
+        "user_name": "python_blr_jobs",
+        "post": 1200,
+        "followers": 21000,
+        "following": 18,
+        "name": "Python Jobs BLR",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udcbc Python/ML/AI jobs daily",
+            "\ud83d\udccd Bengaluru",
+            "pythonblr.jobs"
+        ]
+    },
+    {
+        "user_name": "sarjapur_coder",
+        "post": 143,
+        "followers": 3200,
+        "following": 52,
+        "name": "Roshan",
+        "org": "Full-stack Dev",
+        "bio": [
+            "\ud83e\uddd1\u200d\ud83d\udcbb MERN | DevTools",
+            "Currently debugging from Sarjapur",
+            "roshancodes.dev"
+        ]
+    },
+    {
+        "user_name": "open_source_blr",
+        "post": 300,
+        "followers": 9100,
+        "following": 78,
+        "name": "BLR Open Source",
+        "org": "Community",
+        "bio": [
+            "\ud83c\udf10 Meetups | Talks | OSS",
+            "github.com/blropensource"
+        ]
+    },
+    {
+        "user_name": "techwalk_blr",
+        "post": 430,
+        "followers": 11000,
+        "following": 320,
+        "name": "Tech Walk Bangalore",
+        "org": "Media",
+        "bio": [
+            "\ud83d\udeb6 Exploring tech parks & cafes",
+            "\ud83d\udccd Ecoworld | Manyata | Bagmane",
+            "techwalkblr.com"
+        ]
+    },
+    {
+        "user_name": "itpl_daily",
+        "post": 590,
+        "followers": 14200,
+        "following": 210,
+        "name": "ITPL Daily",
+        "org": "Blog",
+        "bio": [
+            "\ud83c\udfe2 Inside Whitefield Tech Life",
+            "\ud83d\ude8c Bus stand stories included",
+            "medium.com/@itpldaily"
+        ]
+    },
+    {
+        "user_name": "react_native_blr",
+        "post": 220,
+        "followers": 4700,
+        "following": 60,
+        "name": "RN Bangalore",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udcf1 React Native Tips | Meetups",
+            "rnblr.dev"
+        ]
+    },
+    {
+        "user_name": "founder_doodles",
+        "post": 80,
+        "followers": 2300,
+        "following": 20,
+        "name": "Kushal",
+        "org": "Artist + Coder",
+        "bio": [
+            "\u270f\ufe0f Startup doodles",
+            "\ud83d\udcbb YC fanboy",
+            "kushaldraws.com"
+        ]
+    },
+    {
+        "user_name": "blrproductmanager",
+        "post": 160,
+        "followers": 6800,
+        "following": 110,
+        "name": "Sanya | PM",
+        "org": "Product Manager",
+        "bio": [
+            "\ud83d\udccd Koramangala",
+            "\ud83d\udd0d Breaking down apps",
+            "sanyapm.com"
+        ]
+    },
+    {
+        "user_name": "machinelearning_blr",
+        "post": 490,
+        "followers": 17800,
+        "following": 140,
+        "name": "ML Bangalore",
+        "org": "Community",
+        "bio": [
+            "\ud83e\udd16 Workshops | Resources",
+            "mlblr.in"
+        ]
+    },
+    {
+        "user_name": "bengaluru_startup_recruiter",
+        "post": 135,
+        "followers": 5900,
+        "following": 300,
+        "name": "Ankita HR",
+        "org": "Recruiter",
+        "bio": [
+            "\ud83e\udd84 Hiring for early-stage startups",
+            "\ud83d\udccd Indiranagar",
+            "ankitarecruits.in"
+        ]
+    },
+    {
+        "user_name": "coffeeandcode_blr",
+        "post": 77,
+        "followers": 1400,
+        "following": 44,
+        "name": "Aditya",
+        "org": "Developer",
+        "bio": [
+            "\u2615 Coffee + VSCode = Happiness",
+            "\ud83d\udccd HSR",
+            "github.com/coffeeandcodeblr"
+        ]
+    },
+    {
+        "user_name": "uiux_blr_design",
+        "post": 210,
+        "followers": 9500,
+        "following": 130,
+        "name": "UI/UX Bangalore",
+        "org": "Design",
+        "bio": [
+            "\ud83c\udfa8 Case studies, tips, mock UI",
+            "uiuxblr.design"
+        ]
+    },
+    {
+        "user_name": "whitefield_cafe_explorer",
+        "post": 480,
+        "followers": 7600,
+        "following": 250,
+        "name": "Radhika",
+        "org": "Cafe Nerd",
+        "bio": [
+            "\u2615 Whitefield cafes & reading corners",
+            "\ud83d\udcd8 Book recs",
+            "instareadsblr.com"
+        ]
+    },
+    {
+        "user_name": "jslover_bangalore",
+        "post": 120,
+        "followers": 3800,
+        "following": 32,
+        "name": "Jatin Codes",
+        "org": "Engineer",
+        "bio": [
+            "\u26a1 JavaScript everything",
+            "\ud83d\udccd MG Road",
+            "github.com/jatincodesjs"
+        ]
+    },
+    {
+        "user_name": "blrautotechtalk",
+        "post": 310,
+        "followers": 8400,
+        "following": 260,
+        "name": "AutoTech BLR",
+        "org": "Media",
+        "bio": [
+            "\ud83d\ude97 EVs | Autonomous | Mobility",
+            "\ud83d\udccd Bengaluru",
+            "autotechblr.com"
+        ]
+    },
+    {
+        "user_name": "deeptech_india",
+        "post": 900,
+        "followers": 24000,
+        "following": 290,
+        "name": "DeepTech India",
+        "org": "Media",
+        "bio": [
+            "\ud83d\udee0\ufe0f Indian AI + Robotics + Chips",
+            "deeptechindia.ai"
+        ]
+    },
+    {
+        "user_name": "startupdating_blr",
+        "post": 140,
+        "followers": 5000,
+        "following": 40,
+        "name": "Startup Dating",
+        "org": "Blog",
+        "bio": [
+            "\ud83d\udc94 Founders + Investors = Drama",
+            "\ud83d\udccd HSR",
+            "medium.com/startupdatingblr"
+        ]
+    },
+    {
+        "user_name": "codingkannadiga",
+        "post": 190,
+        "followers": 7200,
+        "following": 150,
+        "name": "Praveen",
+        "org": "Tech Creator",
+        "bio": [
+            "\ud83d\udcbb Python + Kannada Tutorials",
+            "youtube.com/@codingkannadiga"
+        ]
+    },
+    {
+        "user_name": "koramangala_hustlers",
+        "post": 800,
+        "followers": 18700,
+        "following": 300,
+        "name": "Koramangala Hustlers",
+        "org": "Lifestyle",
+        "bio": [
+            "\ud83d\udcbc Startups, events, coworks",
+            "korahustlers.com"
+        ]
+    },
+    {
+        "user_name": "mlops_blr",
+        "post": 210,
+        "followers": 6400,
+        "following": 70,
+        "name": "MLOps Bangalore",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udee0\ufe0f ML infra | Deployments",
+            "mlopsblr.in"
+        ]
+    },
+    {
+        "user_name": "producthunt_blr",
+        "post": 340,
+        "followers": 10500,
+        "following": 190,
+        "name": "Product Hunt BLR",
+        "org": "Media",
+        "bio": [
+            "\ud83d\ude80 New launches from Indian builders",
+            "producthuntblr.com"
+        ]
+    },
+    {
+        "user_name": "ai_research_india",
+        "post": 170,
+        "followers": 8800,
+        "following": 60,
+        "name": "AI Research India",
+        "org": "Education",
+        "bio": [
+            "\ud83d\udcc4 Papers, datasets, repos",
+            "airesearchindia.org"
+        ]
+    },
+    {
+        "user_name": "fullstack_dev_anjali",
+        "post": 90,
+        "followers": 2100,
+        "following": 35,
+        "name": "Anjali",
+        "org": "Developer",
+        "bio": [
+            "\ud83c\udf08 Full-stack tutorials",
+            "\ud83d\udccd BTM Layout",
+            "anjalicodes.tech"
+        ]
+    },
+    {
+        "user_name": "bangalorebikecoder",
+        "post": 60,
+        "followers": 1300,
+        "following": 30,
+        "name": "Vijay",
+        "org": "Coder",
+        "bio": [
+            "\ud83d\udeb4 Cycling to office, coding after",
+            "\ud83d\udccd Bellandur",
+            "strava.com/vijayblr"
+        ]
+    },
+    {
+        "user_name": "codewithchai_blr",
+        "post": 110,
+        "followers": 3400,
+        "following": 50,
+        "name": "Chai + Code",
+        "org": "Lifestyle",
+        "bio": [
+            "\u2615 Chai spots + dev stories",
+            "chaiandcode.com"
+        ]
+    },
+    {
+        "user_name": "indiranagar_startuplab",
+        "post": 220,
+        "followers": 12000,
+        "following": 160,
+        "name": "Startup Lab",
+        "org": "Community",
+        "bio": [
+            "\ud83e\uddea Experiments with early-stage founders",
+            "indiranagarstartuplab.com"
+        ]
+    },
+    {
+        "user_name": "pythonforkids_blr",
+        "post": 95,
+        "followers": 2700,
+        "following": 22,
+        "name": "Python Kids BLR",
+        "org": "Education",
+        "bio": [
+            "\ud83d\udc76 Coding classes for kids",
+            "pythonforkidsblr.in"
+        ]
+    },
+    {
+        "user_name": "devrel_blr",
+        "post": 180,
+        "followers": 7900,
+        "following": 70,
+        "name": "DevRel Bangalore",
+        "org": "Community",
+        "bio": [
+            "\ud83c\udfa4 Talks | Dev advocacy | Tools",
+            "devrelblr.org"
+        ]
+    },
+    {
+        "user_name": "techpark_memes",
+        "post": 350,
+        "followers": 16000,
+        "following": 250,
+        "name": "Tech Park Memes",
+        "org": "Comedy",
+        "bio": [
+            "\ud83d\ude02 Jokes from Ecospace, Manyata & more",
+            "bit.ly/techparkmemes"
+        ]
+    },
+    {
+        "user_name": "hsr_designstudio",
+        "post": 400,
+        "followers": 9400,
+        "following": 280,
+        "name": "HSR Design Studio",
+        "org": "Design",
+        "bio": [
+            "\ud83d\udd8c\ufe0f Freelance UI/UX",
+            "\ud83d\udccd HSR",
+            "hsrdesignstudio.in"
+        ]
+    },
+    {
+        "user_name": "kaggler_blr",
+        "post": 130,
+        "followers": 4200,
+        "following": 40,
+        "name": "Kaggle Bangalore",
+        "org": "Data Science",
+        "bio": [
+            "\ud83d\udcca Competitions, kernels",
+            "kagglerblr.com"
+        ]
+    },
+    {
+        "user_name": "datascience_rider",
+        "post": 75,
+        "followers": 1600,
+        "following": 33,
+        "name": "Naman",
+        "org": "Data Scientist",
+        "bio": [
+            "\ud83c\udfcd\ufe0f Rides + ML",
+            "\ud83d\udccd Indiranagar",
+            "namanml.dev"
+        ]
+    },
+    {
+        "user_name": "bootcamp_blr",
+        "post": 310,
+        "followers": 8600,
+        "following": 80,
+        "name": "Bangalore Bootcamp",
+        "org": "Education",
+        "bio": [
+            "\ud83d\udc69\u200d\ud83d\udcbb Coding bootcamps & workshops",
+            "bootcampblr.in"
+        ]
+    },
+    {
+        "user_name": "buildinpublic_blr",
+        "post": 270,
+        "followers": 6200,
+        "following": 50,
+        "name": "Build in Public BLR",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udcc8 Indie hackers & SaaS founders",
+            "buildinpublicblr.com"
+        ]
+    },
+    {
+        "user_name": "intaglobal",
+        "post": 1946,
+        "followers": 6851,
+        "following": 262,
+        "name": "INTA",
+        "org": "Nonprofit organization",
+        "bio": [
+            "The association of \u2122 professionals.",
+            "inta.campsite.bio"
+        ]
+    },
+    {
+        "user_name": "_anujsinghal",
+        "post": 1785,
+        "followers": 681000,
+        "following": 248,
+        "name": "Anuj Singhal",
+        "org": "Digital creator",
+        "bio": [
+            "Managing Editor, CNBC-Awaaz. Most trusted and followed biz anchor in India",
+            "Let\u2019s talk about finance and life",
+            "Contact: Singhalanuj1010@gmail.com",
+            "hindi.cnbctv18.com/market-gurukul"
+        ]
+    },
+    {
+        "user_name": "code_flare",
+        "post": 165,
+        "followers": 216,
+        "following": 10,
+        "name": "The Journey Notebook | Travel | Food Blogger",
+        "org": "Blogger",
+        "bio": [
+            "\ud83d\udccd Exploring places & phases of life \ud83c\udf0d",
+            ".",
+            "\ud83c\udf75 From chai breaks to flight takes \u2708\ufe0f",
+            ".",
+            "\ud83d\udcab Travel | Food | Daily life \ud83c\udf38",
+            "youtube.com/@thejourneynotebook?si=Z1lPUAl-cPgHAP_a"
+        ]
+    },
+    {
+        "user_name": "bangalore_tech_bro",
+        "post": 402,
+        "followers": 12500,
+        "following": 890,
+        "name": "Rahul | HSR Hustler",
+        "org": "Entrepreneur",
+        "bio": [
+            "\ud83d\ude80 Building the next Unicorn in Fintech",
+            "\u2615 3rd Wave Coffee addict",
+            "\ud83d\udcbb Python | React | AI",
+            "\ud83d\udccd HSR Layout, BLR",
+            "linktr.ee/rahulbuilds"
+        ]
+    },
+    {
+        "user_name": "silkboard_survivor",
+        "post": 55,
+        "followers": 1200,
+        "following": 50,
+        "name": "Priya D.",
+        "org": "Public Figure",
+        "bio": [
+            "\ud83d\udea6 Stuck in traffic since 2019",
+            "\ud83c\udf27\ufe0f Loving the Bangalore weather, hating the cabs",
+            "\ud83d\udc0d Data Scientist by day, meme maker by night",
+            "\ud83d\udccd ORR",
+            "bit.ly/my-traffic-rants"
+        ]
+    },
+    {
+        "user_name": "startuphub_blr",
+        "post": 2300,
+        "followers": 45000,
+        "following": 120,
+        "name": "Startup Hub Bangalore",
+        "org": "Media",
+        "bio": [
+            "\ud83e\udd84 News from the Silicon Valley of India",
+            "\ud83d\udce2 Funding alerts, Hiring trends, and Drama",
+            "\ud83d\udce9 DM for features",
+            "startuphub.blr/newsletter"
+        ]
+    },
+    {
+        "user_name": "foodie_in_kora",
+        "post": 890,
+        "followers": 5600,
+        "following": 400,
+        "name": "Sneha | Bangalore Eats",
+        "org": "Food & Drink",
+        "bio": [
+            "Aagrah to Truffles \ud83c\udf54",
+            "Exploring Koramangala's cafe culture \u2615",
+            "DM for collabs",
+            "https://www.google.com/search?q=zomato.com/users/sneha123"
+        ]
+    },
+    {
+        "user_name": "venture_vikram",
+        "post": 120,
+        "followers": 30000,
+        "following": 500,
+        "name": "Vikram | Angel Investor",
+        "org": "Investor",
+        "bio": [
+            "\ud83d\udcb8 Helping founders go 0 to 1",
+            "Ex-Google, Ex-Amazon",
+            "Investing in DeepTech & AI",
+            "\ud83d\udccd Indiranagar",
+            "vikram.vc/pitch-deck"
+        ]
+    },
+    {
+        "user_name": "python_meetup_blr",
+        "post": 60,
+        "followers": 3400,
+        "following": 10,
+        "name": "PyBangalore Community",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udc0d Weekly meetups for Pythonistas",
+            "\ud83d\udccd Cubbon Park | Sundays 4 PM",
+            "Coding + Coffee + Community",
+            "https://www.google.com/search?q=meetup.com/pybangalore"
+        ]
+    },
+    {
+        "user_name": "indiranagar_gossip",
+        "post": 300,
+        "followers": 8900,
+        "following": 20,
+        "name": "Indiranagar Spy",
+        "org": "Personal Blog",
+        "bio": [
+            "Not just about 100ft Road \ud83e\udd2b",
+            "Spilling tea on the best brunches and worst landlords",
+            "Bengaluru",
+            "https://www.google.com/search?q=medium.com/%40indiranagarspy"
+        ]
+    },
+    {
+        "user_name": "techtrail_blr",
+        "post": 340,
+        "followers": 9100,
+        "following": 210,
+        "name": "Tech Trail Bangalore",
+        "org": "Media",
+        "bio": [
+            "\ud83d\ude80 Startup scoops & tech tales",
+            "\ud83d\udca1 Covering Koramangala, HSR & Indiranagar",
+            "\ud83d\udccd BLR",
+            "linktr.ee/techtrailblr"
+        ]
+    },
+    {
+        "user_name": "koramangala_coder",
+        "post": 120,
+        "followers": 2800,
+        "following": 95,
+        "name": "Kora Coder",
+        "org": "Personal Blog",
+        "bio": [
+            "\ud83d\udcbb Daily coding challenges",
+            "\u2615 Cafe-hopping + LeetCode",
+            "\ud83d\udccd Koramangala",
+            "[https://www.google.com/search?q=koramangala+coder](https://www.google.com/search?q=koramangala+coder)"
+        ]
+    },
+    {
+        "user_name": "blrcowork_chronicles",
+        "post": 480,
+        "followers": 6700,
+        "following": 180,
+        "name": "Cowork Chronicles BLR",
+        "org": "Community",
+        "bio": [
+            "\ud83c\udfe2 Exploring coworking spaces",
+            "\ud83d\udc68\u200d\ud83d\udcbb For freelancers & founders",
+            "\ud83d\udccd Bellandur",
+            "bit.ly/cowork-chronicles"
+        ]
+    },
+    {
+        "user_name": "devhub_koramangala",
+        "post": 210,
+        "followers": 4500,
+        "following": 60,
+        "name": "DevHub Koramangala",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udc68\u200d\ud83d\udcbb Nightly coding jams",
+            "\ud83d\udcda React | Python | AI",
+            "\ud83d\udccd Koramangala 5th Block",
+            "[https://www.google.com/search?q=devhub+koramangala](https://www.google.com/search?q=devhub+koramangala)"
+        ]
+    },
+    {
+        "user_name": "ai_bengaluru",
+        "post": 150,
+        "followers": 15200,
+        "following": 140,
+        "name": "AI Bengaluru",
+        "org": "Tech",
+        "bio": [
+            "\ud83e\udd16 AI trends, events & demos",
+            "\ud83d\udccd BLR",
+            "ai-blr.tech"
+        ]
+    },
+    {
+        "user_name": "frontend_blr",
+        "post": 95,
+        "followers": 3900,
+        "following": 30,
+        "name": "Frontend BLR",
+        "org": "Community",
+        "bio": [
+            "\ud83c\udfa8 UI/UX | Web Dev | Tailwind",
+            "\ud83d\udccd Indiranagar",
+            "[https://www.google.com/search?q=frontendblr](https://www.google.com/search?q=frontendblr)"
+        ]
+    },
+    {
+        "user_name": "hsr_startup_stories",
+        "post": 600,
+        "followers": 22000,
+        "following": 300,
+        "name": "HSR Startup Stories",
+        "org": "Media",
+        "bio": [
+            "\ud83e\udd84 Founder journeys from HSR",
+            "\ud83d\udccd BLR",
+            "hsrstartups.in"
+        ]
+    },
+    {
+        "user_name": "python_wallah_blr",
+        "post": 80,
+        "followers": 1700,
+        "following": 40,
+        "name": "Python Wallah BLR",
+        "org": "Educator",
+        "bio": [
+            "\ud83d\udc0d Python tips daily",
+            "\ud83d\udccd BTM Layout",
+            "pythonwallah.in"
+        ]
+    },
+    {
+        "user_name": "btm_dev_cafe",
+        "post": 140,
+        "followers": 2200,
+        "following": 120,
+        "name": "Dev Caf\u00e9 BTM",
+        "org": "Community",
+        "bio": [
+            "\u2615 Coffee + Code sessions",
+            "\ud83d\udccd BTM Layout",
+            "linktr.ee/btmdevcafe"
+        ]
+    },
+    {
+        "user_name": "blrautomation_club",
+        "post": 90,
+        "followers": 5800,
+        "following": 65,
+        "name": "Automation Club BLR",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udee0\ufe0f RPA | Python Scripts | AI",
+            "\ud83d\udccd KR Puram",
+            "[https://www.google.com/search?q=blrautomationclub](https://www.google.com/search?q=blrautomationclub)"
+        ]
+    },
+    {
+        "user_name": "coding_koramangala",
+        "post": 70,
+        "followers": 1350,
+        "following": 15,
+        "name": "Coding Koramangala",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udc68\u200d\ud83d\udcbb Weekly coding walks",
+            "\ud83d\udccd Koramangala",
+            "bit.ly/coding-kormangala"
+        ]
+    },
+    {
+        "user_name": "devlife_bangalore",
+        "post": 430,
+        "followers": 18000,
+        "following": 450,
+        "name": "DevLife Bangalore",
+        "org": "Blog",
+        "bio": [
+            "\ud83d\udcbc Life of BLR developers",
+            "\u2615 Cafes, layoffs & chai",
+            "devlifeblr.medium.com"
+        ]
+    },
+    {
+        "user_name": "cloud_blr",
+        "post": 160,
+        "followers": 9400,
+        "following": 210,
+        "name": "Cloud BLR",
+        "org": "Tech",
+        "bio": [
+            "\u2601\ufe0f Cloud + DevOps content",
+            "\ud83d\udccd Electronic City",
+            "cloudblr.dev"
+        ]
+    },
+    {
+        "user_name": "electroniccity_coder",
+        "post": 100,
+        "followers": 3100,
+        "following": 55,
+        "name": "ECity Coder",
+        "org": "Personal Blog",
+        "bio": [
+            "\ud83d\udcbb Python backend dev",
+            "\ud83d\udccd E-city Phase 1",
+            "[https://www.google.com/search?q=ecity+coder](https://www.google.com/search?q=ecity+coder)"
+        ]
+    },
+    {
+        "user_name": "bangalore_datascience_club",
+        "post": 240,
+        "followers": 12700,
+        "following": 110,
+        "name": "BLR Data Science Club",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udcca ML sessions + Kaggle nights",
+            "\ud83d\udccd MG Road WeWork",
+            "datascienceblr.club"
+        ]
+    },
+    {
+        "user_name": "blrmobiledevs",
+        "post": 130,
+        "followers": 4200,
+        "following": 80,
+        "name": "BLR Mobile Devs",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udcf1 Flutter | React Native",
+            "\ud83d\udccd Indiranagar",
+            "[https://www.google.com/search?q=blrmobiledevs](https://www.google.com/search?q=blrmobiledevs)"
+        ]
+    },
+    {
+        "user_name": "react_bangalore",
+        "post": 300,
+        "followers": 14000,
+        "following": 200,
+        "name": "React Bangalore",
+        "org": "Community",
+        "bio": [
+            "\u269b\ufe0f React meetups & workshops",
+            "\ud83d\udccd BLR",
+            "reactblr.dev"
+        ]
+    },
+    {
+        "user_name": "devs_of_whitefield",
+        "post": 190,
+        "followers": 6600,
+        "following": 150,
+        "name": "Whitefield Devs",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udcbb Tech + productivity",
+            "\ud83d\udccd Whitefield",
+            "whitefielddevs.in"
+        ]
+    },
+    {
+        "user_name": "indiranagar_debugger",
+        "post": 75,
+        "followers": 2000,
+        "following": 30,
+        "name": "Indiranagar Debugger",
+        "org": "Blog",
+        "bio": [
+            "\ud83d\udc1e Debugging life & code",
+            "\ud83d\udccd Indiranagar",
+            "bit.ly/indiranagar-debugger"
+        ]
+    },
+    {
+        "user_name": "koramangala_ai_meet",
+        "post": 85,
+        "followers": 7400,
+        "following": 22,
+        "name": "Kora AI Meet",
+        "org": "Community",
+        "bio": [
+            "\ud83e\udd16 AI jam sessions",
+            "\ud83d\udccd Koramangala 1st Block",
+            "kora-ai.club"
+        ]
+    },
+    {
+        "user_name": "blrit_guy",
+        "post": 230,
+        "followers": 5300,
+        "following": 200,
+        "name": "BLR IT Guy",
+        "org": "Public Figure",
+        "bio": [
+            "\ud83d\udcbc Big Tech employee life",
+            "\ud83d\udccd Manyata Tech Park",
+            "[https://www.google.com/search?q=blr+it+guy](https://www.google.com/search?q=blr+it+guy)"
+        ]
+    },
+    {
+        "user_name": "startup_grind_bangalore",
+        "post": 1100,
+        "followers": 38000,
+        "following": 420,
+        "name": "Startup Grind Bangalore",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udd25 Founder wisdom + events",
+            "\ud83d\udccd BLR",
+            "startupgrind.com/bangalore"
+        ]
+    },
+    {
+        "user_name": "coding_in_indiranagar",
+        "post": 60,
+        "followers": 1100,
+        "following": 25,
+        "name": "Coding in Indiranagar",
+        "org": "Personal Blog",
+        "bio": [
+            "\ud83d\udc68\u200d\ud83d\udcbb Python & JS notes",
+            "\ud83d\udccd 100ft Road",
+            "bit.ly/coding-indiranagar"
+        ]
+    },
+    {
+        "user_name": "devwalk_blr",
+        "post": 50,
+        "followers": 900,
+        "following": 15,
+        "name": "Dev Walk BLR",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udeb6\u200d\u2642\ufe0f Walk + talk tech",
+            "\ud83d\udccd Lalbagh",
+            "devwalk.in"
+        ]
+    },
+    {
+        "user_name": "bellandur_bug_hunter",
+        "post": 110,
+        "followers": 3900,
+        "following": 75,
+        "name": "Bellandur Bug Hunter",
+        "org": "Blog",
+        "bio": [
+            "\ud83d\udc1b QA life in BLR",
+            "\ud83d\udccd Bellandur",
+            "tinyurl.com/bughunterblr"
+        ]
+    },
+    {
+        "user_name": "blrcoders_space",
+        "post": 340,
+        "followers": 25000,
+        "following": 300,
+        "name": "BLR Coders Space",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udc68\u200d\ud83d\udcbb Coding news, memes",
+            "\ud83d\udccd BLR",
+            "blrcoders.space"
+        ]
+    },
+    {
+        "user_name": "nextjs_blr",
+        "post": 45,
+        "followers": 2300,
+        "following": 40,
+        "name": "Next.js Bangalore",
+        "org": "Community",
+        "bio": [
+            "\u26a1 Modern web dev meetups",
+            "\ud83d\udccd MG Road",
+            "nextjsblr.dev"
+        ]
+    },
+    {
+        "user_name": "techpark_musings",
+        "post": 130,
+        "followers": 6000,
+        "following": 100,
+        "name": "Tech Park Musings",
+        "org": "Blog",
+        "bio": [
+            "\ud83c\udfe2 Manyata | EcoSpace | Bagmane",
+            "\ud83d\udccd Bangalore",
+            "medium.com/@techparkmusings"
+        ]
+    },
+    {
+        "user_name": "koramangala_freelancers",
+        "post": 200,
+        "followers": 4000,
+        "following": 70,
+        "name": "Koramangala Freelancers",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udcbb Remote work + gigs",
+            "\ud83d\udccd Koramangala",
+            "korafreelancers.co"
+        ]
+    },
+    {
+        "user_name": "blronlinejobs",
+        "post": 560,
+        "followers": 21000,
+        "following": 190,
+        "name": "BLR Online Jobs",
+        "org": "Media",
+        "bio": [
+            "\ud83d\udcbc Hiring in tech daily",
+            "\ud83d\udccd BLR",
+            "blronlinejobs.in"
+        ]
+    },
+    {
+        "user_name": "datascience_daily_blr",
+        "post": 150,
+        "followers": 8800,
+        "following": 140,
+        "name": "DS Daily BLR",
+        "org": "Education",
+        "bio": [
+            "\ud83d\udcca ML tricks & resources",
+            "\ud83d\udccd BLR",
+            "dsdailyblr.com"
+        ]
+    },
+    {
+        "user_name": "python_koramangala",
+        "post": 42,
+        "followers": 850,
+        "following": 12,
+        "name": "Python Koramangala",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udc0d Weekly Python tasks",
+            "\ud83d\udccd Koramangala",
+            "bit.ly/python-kora"
+        ]
+    },
+    {
+        "user_name": "coding_chai_bangalore",
+        "post": 280,
+        "followers": 10000,
+        "following": 230,
+        "name": "Coding Chai",
+        "org": "Blog",
+        "bio": [
+            "\u2615 Code + chai",
+            "\ud83d\udccd JP Nagar",
+            "codingchai.in"
+        ]
+    },
+    {
+        "user_name": "blrgitcommunity",
+        "post": 75,
+        "followers": 3200,
+        "following": 20,
+        "name": "Git Community BLR",
+        "org": "Tech",
+        "bio": [
+            "\ud83d\udd27 Git tips & collab sessions",
+            "\ud83d\udccd BLR",
+            "gitblr.dev"
+        ]
+    },
+    {
+        "user_name": "indiranagar_startups",
+        "post": 320,
+        "followers": 12500,
+        "following": 100,
+        "name": "Indiranagar Startups",
+        "org": "Media",
+        "bio": [
+            "\ud83e\udd84 Spotlight on early-stage founders",
+            "\ud83d\udccd Indiranagar",
+            "indiranagarstartups.in"
+        ]
+    },
+    {
+        "user_name": "machinelearning_blr",
+        "post": 210,
+        "followers": 19000,
+        "following": 250,
+        "name": "Machine Learning BLR",
+        "org": "Tech",
+        "bio": [
+            "\ud83e\udd16 ML articles & demos",
+            "\ud83d\udccd BLR",
+            "mlblr.tech"
+        ]
+    },
+    {
+        "user_name": "koramangala_script_kiddie",
+        "post": 55,
+        "followers": 1050,
+        "following": 18,
+        "name": "Script Kiddie Kora",
+        "org": "Personal Blog",
+        "bio": [
+            "\ud83d\udcbb Learning Python & JS",
+            "\ud83d\udccd Koramangala",
+            "[https://www.google.com/search?q=script+kiddie+kora](https://www.google.com/search?q=script+kiddie+kora)"
+        ]
+    },
+    {
+        "user_name": "hsr_dev_buddy",
+        "post": 120,
+        "followers": 2700,
+        "following": 40,
+        "name": "HSR Dev Buddy",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udc68\u200d\ud83d\udcbb Peer learning club",
+            "\ud83d\udccd HSR Layout",
+            "hsrdevbuddy.in"
+        ]
+    },
+    {
+        "user_name": "blrcloudhackers",
+        "post": 140,
+        "followers": 7900,
+        "following": 200,
+        "name": "BLR Cloud Hackers",
+        "org": "Tech",
+        "bio": [
+            "\u2601\ufe0f AWS | Azure | GCP",
+            "\ud83d\udccd BLR",
+            "cloudhackers.in"
+        ]
+    },
+    {
+        "user_name": "techwriter_blr",
+        "post": 60,
+        "followers": 1900,
+        "following": 50,
+        "name": "BLR Tech Writer",
+        "org": "Writer",
+        "bio": [
+            "\ud83d\udcdd Tech explainers",
+            "\ud83d\udccd Bangalore",
+            "medium.com/@blrtechwriter"
+        ]
+    },
+    {
+        "user_name": "dev_canteen_koramangala",
+        "post": 180,
+        "followers": 5400,
+        "following": 120,
+        "name": "Dev Canteen",
+        "org": "Community",
+        "bio": [
+            "\ud83c\udf54 Food + code meetups",
+            "\ud83d\udccd Koramangala",
+            "devcanteen.in"
+        ]
+    },
+    {
+        "user_name": "pythonlady_blr",
+        "post": 70,
+        "followers": 4200,
+        "following": 35,
+        "name": "Python Lady BLR",
+        "org": "Educator",
+        "bio": [
+            "\ud83d\udc0d Python + data tutorials",
+            "\ud83d\udccd Indiranagar",
+            "pythonlady.in"
+        ]
+    },
+    {
+        "user_name": "bangalore_oss",
+        "post": 250,
+        "followers": 9800,
+        "following": 90,
+        "name": "Bangalore Open Source",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udee0\ufe0f OSS projects & contributions",
+            "\ud83d\udccd BLR",
+            "ossblr.dev"
+        ]
+    },
+    {
+        "user_name": "blr_ai_founders",
+        "post": 85,
+        "followers": 6600,
+        "following": 70,
+        "name": "BLR AI Founders",
+        "org": "Entrepreneur",
+        "bio": [
+            "\ud83e\udd16 AI startup builders",
+            "\ud83d\udccd Indiranagar",
+            "aifoundersblr.com"
+        ]
+    },
+    {
+        "user_name": "coders_of_bangalore",
+        "post": 300,
+        "followers": 17000,
+        "following": 280,
+        "name": "Coders of Bangalore",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udc68\u200d\ud83d\udcbb Showcasing BLR devs",
+            "\ud83d\udccd BLR",
+            "codersofbangalore.in"
+        ]
+    },
+    {
+        "user_name": "dailydev_bangalore",
+        "post": 180,
+        "followers": 12200,
+        "following": 200,
+        "name": "Daily Dev Bangalore",
+        "org": "Tech",
+        "bio": [
+            "\ud83d\udcdd Tips | Tools | Tutorials",
+            "\ud83d\udccd BLR",
+            "dailydevblr.co"
+        ]
+    },
+    {
+        "user_name": "bangalore_backend",
+        "post": 90,
+        "followers": 4800,
+        "following": 60,
+        "name": "BLR Backend Devs",
+        "org": "Tech",
+        "bio": [
+            "\ud83d\udd27 Python | Go | Node",
+            "\ud83d\udccd BLR",
+            "backendblr.tech"
+        ]
+    },
+    {
+        "user_name": "ecity_techies",
+        "post": 140,
+        "followers": 3900,
+        "following": 55,
+        "name": "E-city Techies",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udcbc Tech park life",
+            "\ud83d\udccd Electronic City",
+            "ecitytechies.in"
+        ]
+    },
+    {
+        "user_name": "fullstack_blr_club",
+        "post": 110,
+        "followers": 7200,
+        "following": 85,
+        "name": "Fullstack BLR Club",
+        "org": "Community",
+        "bio": [
+            "\ud83d\udcbb MERN | Python | DevOps",
+            "\ud83d\udccd JP Nagar",
+            "fullstackblr.club"
+        ]
+    },
+    {
+        "user_name": "coding_runners_blr",
+        "post": 100,
+        "followers": 2500,
+        "following": 35,
+        "name": "Coding Runners",
+        "org": "Community",
+        "bio": [
+            "\ud83c\udfc3\u200d\u2642\ufe0f Running + coding",
+            "\ud83d\udccd Cubbon Park",
+            "codingrunners.in"
+        ]
+    },
+    {
+        "user_name": "bangalore_engineers_diary",
+        "post": 270,
+        "followers": 8500,
+        "following": 120,
+        "name": "Engineers Diary BLR",
+        "org": "Blog",
+        "bio": [
+            "\ud83d\udcd8 Life & tech rants",
+            "\ud83d\udccd BLR",
+            "medium.com/@engineersdiaryblr"
+        ]
+    }
+]
